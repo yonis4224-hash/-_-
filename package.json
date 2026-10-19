@@ -1,0 +1,15 @@
+{
+  "name": "krita-mini-studio",
+  "version": "1.0.0",
+  "description": "A lightweight, powerful drawing studio inspired by Krita and Ibis Paint",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["drawing", "krita", "ibis-paint", "canvas"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^41.0.0"
+  }
+}
